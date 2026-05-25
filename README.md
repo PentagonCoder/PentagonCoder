@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-- 💻 Passionate about secure backend systems, auth flows, and interactive projects
+- 💻 Passionate about secure backend systems, authentication flows, and interactive projects
 - 🔐 Focused on authentication, authorization, and API security best practices
 - 🎮 Exploring desktop game development with C++ and FLTK
 - 🛠️ Building practical projects that solve real-world problems
@@ -89,7 +89,7 @@ A desktop To-Do List application with interactive FLTK widgets.
 ## 🎯 Current Goals
 
 - Master backend development
-- Improve DSA and problem solving
+- Improve Data Structures and Algorithms and problem solving
 - Build scalable real-world projects
 - Learn advanced system design
 - Explore multiplayer game development
