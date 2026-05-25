@@ -32,10 +32,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-121011?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-121011?style=for-the-badge)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9D58?style=for-the-badge&logo=gmail&logoColor=white)
 ![Helmet.js](https://img.shields.io/badge/Helmet.js-FF6F00?style=for-the-badge&logo=helmet&logoColor=white)
-![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-DC2626?style=for-the-badge&logo=clockify&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-DC2626?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 ### Languages & Tools
