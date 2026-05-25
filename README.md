@@ -89,7 +89,7 @@ A desktop To-Do List application with interactive FLTK widgets.
 ## 🎯 Current Goals
 
 - Master backend development
-- Improve Data Structures and Algorithms and problem solving
+- Improve data structures and algorithms and problem solving
 - Build scalable real-world projects
 - Learn advanced system design
 - Explore multiplayer game development
