@@ -1,58 +1,52 @@
 # Hi 👋, I'm Harsh Sharma
 
-### Backend Developer & Game Dev Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Backend+Developer;Game+Dev+Enthusiast;Building+Secure+and+Scalable+Systems" alt="Typing SVG" />
+</p>
+<p align="center"><sub>Tip: update the typing effect text, color, and speed directly in the SVG URL parameters.</sub></p>
 
-💻 Passionate about building secure backend systems, authentication flows, and interactive projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PentagonCoder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-🚀 Currently exploring:
+### 🚀 About Me
 
-* Secure Authentication Systems
-* JWT & Refresh Token Architecture
-* Role-Based Access Control
-* OTP & Email Verification Systems
-* REST APIs with Node.js & Express
-* Game Development with C++ & FLTK
+- 💻 Passionate about secure backend systems, authentication flows, and interactive projects
+- 🔐 Focused on authentication, authorization, and API security best practices
+- 🎮 Exploring desktop game development with C++ and FLTK
+- 🛠️ Building practical projects that solve real-world problems
 
 ---
 
 ## 🌐 Connect With Me
 
-* GitHub: [https://github.com/PentagonCoder](https://github.com/PentagonCoder)
-* LinkedIn: Add your LinkedIn profile here
+- GitHub: [PentagonCoder](https://github.com/PentagonCoder)
+- LinkedIn: Coming soon
 
 ---
 
 ## 💻 Tech Stack
 
-### Backend
+### Backend & Security
 
-* Node.js
-* Express.js
-* MongoDB
-* JWT Authentication
-* REST APIs
-* bcrypt
-* Nodemailer
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Bcrypt](https://img.shields.io/badge/Bcrypt-121011?style=for-the-badge)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9D58?style=for-the-badge&logo=gmail&logoColor=white)
+![Helmet.js](https://img.shields.io/badge/Helmet.js-FF6F00?style=for-the-badge)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-DC2626?style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 
-### Security & Validation
+### Languages & Tools
 
-* Helmet
-* Rate Limiting
-* Zod / Joi Validation
-* Secure Cookie Handling
-* OTP Verification
-
-### Languages
-
-* JavaScript
-* C++
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -62,13 +56,13 @@
 
 A complete backend authentication system featuring:
 
-* JWT Access & Refresh Tokens
-* Email Verification
-* Forgot Password Flow
-* OTP System
-* Role-Based Authorization
-* Secure Middleware
-* API Validation & Security
+- JWT Access & Refresh Tokens
+- Email Verification
+- Forgot Password Flow
+- OTP System
+- Role-Based Authorization
+- Secure Middleware
+- API Validation & Security
 
 ### 🎮 Tic-Tac-Toe Game (C++ + FLTK)
 
@@ -82,19 +76,24 @@ A desktop To-Do List application with interactive FLTK widgets.
 
 ## 📊 GitHub Stats
 
-```md
-Add GitHub stats cards here later
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PentagonCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PentagonCoder&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PentagonCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
 ## 🎯 Current Goals
 
-* Master Backend Development
-* Improve DSA & Problem Solving
-* Build Scalable Real-World Projects
-* Learn Advanced System Design
-* Explore Multiplayer Game Development
+- Master Backend Development
+- Improve Data Structures, Algorithms, and Problem Solving
+- Build Scalable Real-World Projects
+- Learn Advanced System Design
+- Explore Multiplayer Game Development
 
 ---
 
