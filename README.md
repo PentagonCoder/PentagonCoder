@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Backend+Developer;Game+Dev+Enthusiast;Building+Secure+and+Scalable+Systems" alt="Typing SVG" />
 </p>
+<p align="center"><sub>Tip: update the typing effect text, color, and speed directly in the SVG URL parameters.</sub></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PentagonCoder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -88,11 +89,11 @@ A desktop To-Do List application with interactive FLTK widgets.
 
 ## 🎯 Current Goals
 
-- Master backend development
-- Improve data structures, algorithms, and problem solving
-- Build scalable real-world projects
-- Learn advanced system design
-- Explore multiplayer game development
+- Master Backend Development
+- Improve Data Structures, Algorithms, and Problem Solving
+- Build Scalable Real-World Projects
+- Learn Advanced System Design
+- Explore Multiplayer Game Development
 
 ---
 
