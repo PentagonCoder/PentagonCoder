@@ -45,25 +45,32 @@ I am a backend-focused developer interested in building secure, scalable, and pr
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Featured Work
+## Pinned Repositories
 
-### Authentication System
+These repositories best represent my current skills in backend engineering, real-time systems, and product-oriented development.
 
-A complete backend authentication platform with:
+<p align="center">
+  <a href="https://github.com/PentagonCoder/harsh-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=harsh-backend&theme=tokyonight&hide_border=true" alt="harsh-backend repository card" />
+  </a>
+  <a href="https://github.com/PentagonCoder/MyAuth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=MyAuth&theme=tokyonight&hide_border=true" alt="MyAuth repository card" />
+  </a>
+</p>
 
-- JWT access and refresh token flow
-- Email verification and password reset
-- OTP-based verification
-- Role-based authorization
-- Secure middleware and input validation
+<p align="center">
+  <a href="https://github.com/PentagonCoder/Necllo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=Necllo&theme=tokyonight&hide_border=true" alt="Necllo repository card" />
+  </a>
+  <a href="https://github.com/PentagonCoder/game-server-websocket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=game-server-websocket&theme=tokyonight&hide_border=true" alt="game-server-websocket repository card" />
+  </a>
+</p>
 
-### Tic-Tac-Toe Game (C++ + FLTK)
-
-A desktop GUI implementation of Tic-Tac-Toe built with C++ and FLTK.
-
-### GUI To-Do App
-
-A desktop productivity application using FLTK widgets and interactive controls.
+- **harsh-backend** — secure backend APIs, authentication flows, and middleware design
+- **MyAuth** — authentication-first project architecture with token, validation, and account flows
+- **Necllo** — SaaS-style backend organization with scalable service-oriented thinking
+- **game-server-websocket** — real-time server communication patterns using WebSocket concepts
 
 ## GitHub Stats
 
