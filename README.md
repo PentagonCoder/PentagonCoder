@@ -93,4 +93,4 @@ These repositories best represent my current skills in backend engineering, real
 
 ## Quick Note
 
-I enjoy building systems from the ground up and understanding how each layer works—from authentication architecture to game logic.
+I enjoy building systems from the ground up and understanding how each layer works, from authentication architecture to game logic.
