@@ -1,7 +1,7 @@
 # Hi, I'm Harsh Sharma 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Animated professional titles display" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Backend Developer, Security-Focused Engineer, and C++ Game Development Enthusiast" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ My recent work emphasizes robust authentication and authorization flows, API pro
 ### Languages & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
