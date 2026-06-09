@@ -1,7 +1,7 @@
 # Hi, I'm Harsh Sharma 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Professional titles and areas of expertise: Backend Developer, Security-Focused Engineer, and C++ Game Development Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Animated professional titles display" />
 </p>
 
 <p align="center">
@@ -51,19 +51,19 @@ These repositories best represent my current skills in backend engineering, real
 
 <p align="center">
   <a href="https://github.com/PentagonCoder/harsh-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=harsh-backend&theme=tokyonight&hide_border=true" alt="harsh-backend: secure backend APIs and authentication flows" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=harsh-backend&theme=tokyonight&hide_border=true" alt="Repository card for harsh-backend" />
   </a>
   <a href="https://github.com/PentagonCoder/MyAuth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=MyAuth&theme=tokyonight&hide_border=true" alt="MyAuth: token-based authentication and account management" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=MyAuth&theme=tokyonight&hide_border=true" alt="Repository card for MyAuth" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/PentagonCoder/Necllo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=Necllo&theme=tokyonight&hide_border=true" alt="Necllo: scalable SaaS and service-oriented backend design" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=Necllo&theme=tokyonight&hide_border=true" alt="Repository card for Necllo" />
   </a>
   <a href="https://github.com/PentagonCoder/game-server-websocket">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=game-server-websocket&theme=tokyonight&hide_border=true" alt="game-server-websocket: real-time communication and websocket server patterns" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=game-server-websocket&theme=tokyonight&hide_border=true" alt="Repository card for game-server-websocket" />
   </a>
 </p>
 
@@ -75,12 +75,12 @@ These repositories best represent my current skills in backend engineering, real
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PentagonCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics card showing contributions and activity for PentagonCoder" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PentagonCoder&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics for PentagonCoder" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PentagonCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PentagonCoder&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PentagonCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages chart for PentagonCoder" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PentagonCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 </p>
 
 ## Current Focus
