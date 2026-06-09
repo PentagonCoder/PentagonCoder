@@ -1,7 +1,7 @@
 # Hi, I'm Harsh Sharma 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C-plus-plus+Game+Development+Enthusiast" alt="Animated professional titles display" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Animated professional titles display" />
 </p>
 
 <p align="center">
