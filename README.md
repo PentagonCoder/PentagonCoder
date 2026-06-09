@@ -33,7 +33,7 @@ I am a backend-focused developer interested in building secure, scalable, and pr
 ![Bcrypt](https://img.shields.io/badge/Bcrypt-121011?style=for-the-badge)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-0F9D58?style=for-the-badge&logo=gmail&logoColor=white)
 ![Helmet.js](https://img.shields.io/badge/Helmet.js-FF6F00?style=for-the-badge)
-![Rate%20Limiting](https://img.shields.io/badge/Rate%20Limiting-DC2626?style=for-the-badge)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-DC2626?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 
 ### Languages & Tools
