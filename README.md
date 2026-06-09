@@ -1,7 +1,7 @@
 # Hi, I'm Harsh Sharma 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Animated text displaying Backend Developer, Security-Focused Engineer, and C++ Game Development Enthusiast" />
 </p>
 
 <p align="center">
@@ -75,12 +75,12 @@ These repositories best represent my current skills in backend engineering, real
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PentagonCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PentagonCoder&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PentagonCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics card showing contributions and activity for PentagonCoder" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PentagonCoder&theme=tokyonight&hide_border=true" alt="GitHub contribution streak statistics for PentagonCoder" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PentagonCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PentagonCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages chart for PentagonCoder" />
 </p>
 
 ## Current Focus
