@@ -21,7 +21,7 @@ My recent work emphasizes robust authentication and authorization flows, API pro
 ## Connect
 
 - GitHub: [@PentagonCoder](https://github.com/PentagonCoder)
-- LinkedIn: Coming soon
+- LinkedIn: (in/harsh-sharma-994138306)
 
 ## Tech Stack
 
