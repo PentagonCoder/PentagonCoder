@@ -1,31 +1,29 @@
-# Hi 👋, I'm Harsh Sharma
+# Hi, I'm Harsh Sharma 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Backend+Developer;Game+Dev+Enthusiast;Building+Secure+and+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Backend Developer, Security-Focused Engineer, and C++ Game Development Enthusiast" />
 </p>
-<p align="center"><sub>Tip: update the typing effect text, color, and speed directly in the SVG URL parameters.</sub></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PentagonCoder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=PentagonCoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view counter badge" />
 </p>
 
-### 🚀 About Me
+## About Me
 
-- 💻 Passionate about secure backend systems, authentication flows, and interactive projects
-- 🔐 Focused on authentication, authorization, and API security best practices
+I am a backend-focused developer interested in building secure, scalable, and practical software systems.
+My recent work emphasizes robust authentication and authorization flows, API protection, and clean project architecture.
+
+- 🔐 Focused on backend security and API reliability
+- 💻 Building production-oriented Node.js and Express applications
 - 🎮 Exploring desktop game development with C++ and FLTK
-- 🛠️ Building practical projects that solve real-world problems
+- 🛠️ Continuously improving system design and problem-solving skills
 
----
+## Connect
 
-## 🌐 Connect With Me
-
-- GitHub: [PentagonCoder](https://github.com/PentagonCoder)
+- GitHub: [@PentagonCoder](https://github.com/PentagonCoder)
 - LinkedIn: Coming soon
 
----
-
-## 💻 Tech Stack
+## Tech Stack
 
 ### Backend & Security
 
@@ -48,55 +46,51 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+## Pinned Repositories
 
-## 🚀 Featured Projects
-
-### 🔐 Authentication System
-
-A complete backend authentication system featuring:
-
-- JWT Access & Refresh Tokens
-- Email Verification
-- Forgot Password Flow
-- OTP System
-- Role-Based Authorization
-- Secure Middleware
-- API Validation & Security
-
-### 🎮 Tic-Tac-Toe Game (C++ + FLTK)
-
-GUI-based Tic-Tac-Toe project built using C++ and FLTK.
-
-### 📝 GUI To-Do App
-
-A desktop To-Do List application with interactive FLTK widgets.
-
----
-
-## 📊 GitHub Stats
+These repositories best represent my current skills in backend engineering, real-time systems, and product-oriented development.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PentagonCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PentagonCoder&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+  <a href="https://github.com/PentagonCoder/harsh-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=harsh-backend&theme=tokyonight&hide_border=true" alt="Repository card for harsh-backend" />
+  </a>
+  <a href="https://github.com/PentagonCoder/MyAuth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=MyAuth&theme=tokyonight&hide_border=true" alt="Repository card for MyAuth" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PentagonCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/PentagonCoder/Necllo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=Necllo&theme=tokyonight&hide_border=true" alt="Repository card for Necllo" />
+  </a>
+  <a href="https://github.com/PentagonCoder/game-server-websocket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PentagonCoder&repo=game-server-websocket&theme=tokyonight&hide_border=true" alt="Repository card for game-server-websocket" />
+  </a>
 </p>
 
----
+- **harsh-backend** — secure backend APIs, authentication flows, and middleware design
+- **MyAuth** — authentication-first project architecture with token, validation, and account flows
+- **Necllo** — SaaS-style backend organization with scalable service-oriented thinking
+- **game-server-websocket** — real-time server communication patterns using WebSocket concepts
 
-## 🎯 Current Goals
+## GitHub Stats
 
-- Master Backend Development
-- Improve Data Structures, Algorithms, and Problem Solving
-- Build Scalable Real-World Projects
-- Learn Advanced System Design
-- Explore Multiplayer Game Development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PentagonCoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PentagonCoder&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" height="165" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PentagonCoder&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
 
-## ⚡ Fun Fact
+## Current Focus
 
-I enjoy building systems from scratch and understanding how things work internally — from authentication architecture to game logic.
+- Building secure backend applications with clean architecture
+- Strengthening data structures and algorithmic problem solving
+- Deepening practical system design knowledge
+- Continuing game development experiments with C++
+
+## Quick Note
+
+I enjoy building systems from the ground up and understanding how each layer works, from authentication architecture to game logic.
