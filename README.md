@@ -36,6 +36,9 @@ My recent work emphasizes robust authentication and authorization flows, API pro
 ![Helmet.js](https://img.shields.io/badge/Helmet.js-FF6F00?style=for-the-badge)
 ![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-DC2626?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
+![linux]
+![Docker]
+
 
 ### Languages & Tools
 
