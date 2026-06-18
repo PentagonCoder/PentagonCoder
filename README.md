@@ -4,19 +4,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=900&lines=Backend+Developer;Security-Focused+Engineer;C%2B%2B+Game+Development+Enthusiast" alt="Backend Developer, Security-Focused Engineer, and C++ Game Development Enthusiast" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PentagonCoder&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile view counter badge" />
-</p>
-
 ## About Me
 
 I am a backend-focused developer interested in building secure, scalable, and practical software systems.
 My recent work emphasizes robust authentication and authorization flows, API protection, and clean project architecture.
 
-- 🔐 Focused on backend security and API reliability
-- 💻 Building production-oriented Node.js and Express applications
-- 🎮 Exploring desktop game development with C++ and FLTK
-- 🛠️ Continuously improving system design and problem-solving skills
+- 🔐 Backend security & API reliability  
+- 💻 Production-oriented Node.js & Express applications  
+- 🐳 Exploring containerization with Docker  
+- 🐧 Strengthening Linux fundamentals for system-level mastery  
+- 🎮 Desktop game development with C++ and FLTK  
+- 🛠️ Continuously improving system design and problem-solving skills 
 
 ## Connect
 
@@ -36,8 +34,9 @@ My recent work emphasizes robust authentication and authorization flows, API pro
 ![Helmet.js](https://img.shields.io/badge/Helmet.js-FF6F00?style=for-the-badge)
 ![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-DC2626?style=for-the-badge)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
-![linux]
-![Docker]
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 ### Languages & Tools
@@ -71,10 +70,10 @@ These repositories best represent my current skills in backend engineering, real
   </a>
 </p>
 
-- **harsh-backend** — secure backend APIs, authentication flows, and middleware design
-- **MyAuth** — authentication-first project architecture with token, validation, and account flows
-- **Necllo** — SaaS-style backend organization with scalable service-oriented thinking
-- **game-server-websocket** — real-time server communication patterns using WebSocket concepts
+- **harsh-backend** — secure backend APIs, authentication flows, and middleware design  
+- **MyAuth** — authentication-first project architecture with token, validation, and account flows  
+- **Necllo** — SaaS-style backend organization with scalable service-oriented thinking  
+- **game-server-websocket** — real-time server communication patterns using WebSocket concepts  
 
 ## GitHub Stats
 
@@ -89,10 +88,12 @@ These repositories best represent my current skills in backend engineering, real
 
 ## Current Focus
 
-- Building secure backend applications with clean architecture
-- Strengthening data structures and algorithmic problem solving
-- Deepening practical system design knowledge
-- Continuing game development experiments with C++
+- Building secure backend applications with clean architecture  
+- Strengthening data structures and algorithmic problem solving  
+- Deepening practical system design knowledge  
+- Exploring Docker for containerized deployments  
+- Mastering Linux for system-level operations  
+- Continuing game development experiments with C++  
 
 ## Quick Note
 
